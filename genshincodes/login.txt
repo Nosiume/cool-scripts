@@ -1,0 +1,8 @@
+data/uid:YOUR_UID
+data/region:YOUR_REGION
+data/lang:YOUR_LANGUAGE
+data/game_biz:hk4e_global
+
+cookies/account_id:COOKIE_ACCOUNT_ID
+cookies/cookie_token:COOKIE_TOKEN
+cookies/login_ticket:LOGIN_TICKET
