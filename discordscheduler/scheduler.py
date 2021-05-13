@@ -1,6 +1,6 @@
 """
 Made with love to steal all the bumps
-from everyone Mitsuha's discord :D
+from everyone on Mitsuha's discord :D
 """
 
 import requests
